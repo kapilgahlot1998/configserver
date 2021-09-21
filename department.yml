@@ -1,3 +1,4 @@
+name: gahlot
 eureka:
   client:
     register-with-eureka: true
