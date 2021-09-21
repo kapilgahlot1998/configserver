@@ -1,4 +1,4 @@
-name: gahlot
+name: KapilGahlot
 eureka:
   client:
     register-with-eureka: true
